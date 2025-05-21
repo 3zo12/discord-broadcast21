@@ -59,7 +59,7 @@ The bot is configured through the `config.js` file:
 module.exports = {
     bot: {
         tokens: [
-            process.env.DISCORD_TOKEN,                  // Main bot token
+            process.env.DISCORD_TOKEN,                  /MTMyOTgxMjEzMzE2ODU0OTkwMA.GpTLCK.T4jOZG_SN-VVHysq6Q749tzUvctHIUAud1ZpQs/ Main bot token
             process.env.DISCORD_TOKEN_2,                // 2 bot token
         ].filter(Boolean),
 
@@ -72,9 +72,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'YOUR_SERVER_ID',                  // ايدي السيرفر
-        broadcastRoleId: 'YOUR_BROADCAST_ROLE_ID',  // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'YOUR_REPORT_CHANNEL_ID'   // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: 'YOUR_SERVER_ID',                  /1301230088158838855/ ايدي السيرفر
+        broadcastRoleId: 'YOUR_BROADCAST_ROLE_ID',  /1303851044811313182/ ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: 'YOUR_REPORT_CHANNEL_ID'   /1303744371828457546/ ايدي الروم اللي يرسل فيه البوت التقارير
     },
     // Additional configuration...
 }
