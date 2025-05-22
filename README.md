@@ -72,9 +72,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'YOUR_SERVER_ID',                  // ايدي السيرفر
-        broadcastRoleId: 'YOUR_BROADCAST_ROLE_ID',  // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'YOUR_REPORT_CHANNEL_ID'   // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1301230088158838855',                  // ايدي السيرفر
+        broadcastRoleId: '1303830714952716404',  // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1303744371828457546'   // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     // Additional configuration...
 }
