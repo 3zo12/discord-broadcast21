@@ -29,7 +29,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/wickstudio/discord-broadcast.git
+   git clone https://github.com/3zo12/discord-broadcast21.git
    cd discord-broadcast
    ```
 
