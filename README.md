@@ -1,7 +1,7 @@
-# Wick Studio - Discord Broadcast System
+# Brfx Development - Discord Broadcast System
 
 <div align="center">
-  <img src="https://media.wickdev.me/IGG6cyadBh.png" alt="Wick Studio Logo" width="200"/>
+  <img src="https://i.postimg.cc/t4Tv3XFP/BRFX-Logo-Brightened.png" alt="Brfx Development Logo" width="200"/>
   <br>
   <h3>🚀 Advanced Discord Broadcast System with Multi-Client Support</h3>
   <p>A powerful Discord broadcasting solution for large servers</p>
@@ -66,7 +66,7 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: '📢 Wick Studio', // رسالة حالة البوت
+            name: '📢 Brfx Development', // رسالة حالة البوت
             type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
             status: 'dnd' // online, idle, dnd, invisible
         }
@@ -87,7 +87,7 @@ module.exports = {
 | `-bc <message>` | Start a broadcast with your message |
 | `-language` | View and select a language |
 | `-lang <en/ar>` | Change bot language directly |
-| `-wick` | Test command to check bot status and server stats |
+| `-brfx` | Test command to check bot status and server stats |
 
 ## 📢 Broadcast Options
 
@@ -157,9 +157,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Links
 
-- [Discord Server](https://discord.gg/wicks)
-- [GitHub Repository](https://github.com/wickstudio/discord-broadcast)
+- [Discord Server](https://discord.gg/oo8)
+- [GitHub Repository](https://github.com/3zo12/discord-broadcast21)
 
 ## 👨‍💻 Credits
 
-Developed with 💜 by [Wick Studio](https://discord.gg/wicks) 
+Developed with 💜 by [Brfx Development](https://discord.gg/oo8) 
